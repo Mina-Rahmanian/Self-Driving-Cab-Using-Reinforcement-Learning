@@ -2,7 +2,7 @@
 <br /><br />
 
 Useful bits of knowledge before start:
-+ First of all, please read The Reinforcment Learning book "Sutton & Barto" in second edition from this link "https://www.dbooks.org/reinforcement-learning-0262039249/".
++ First of all, please read The Reinforcment Learning book "Sutton & Barto" in second edition from [this link](https://www.dbooks.org/reinforcement-learning-0262039249/).
 + Also if you want to work with MATLAB you can read these too. [RL in MATLAB](https://github.com/MinaR-90/Self-Driving-Cab-Using-Reinforcement-Learning/issues/1)
 
 
