@@ -1,7 +1,8 @@
 # Self Driving Cab Using Reinforcement Learning methods (Q-learning and DQN)
 <br /><br />
 Useful bits of knowledge before start:<br />
-+  Read The Reinforcment Learning book in second edition from "https://www.dbooks.org/reinforcement-learning-0262039249/"
++ First of all, please read The Reinforcment Learning book "Sutton & Barto" in second edition from this link "https://www.dbooks.org/reinforcement-learning-0262039249/".
++ 
 
 
 
