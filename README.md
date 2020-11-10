@@ -33,6 +33,12 @@ The  self-driving cab environment provides a basic real-world transportation pro
 </p> <br />
 
 
+ Self-driving cabis well-structured and only has a limited number of states,  actions, and rewards; therefore, wethought this was an appropriate environment to develop in. The Smartcab’s problem is to pickup the passenger at one location and drop them off in another. Here are a few things that wewould like our Smartcab to take care of:
+ 
+ + Drop off the passenger to the location.
+ + Save passenger’s time by taking minimum time possible to drop off.
+ + Take care of passenger’s safety and traffic rules. <br />
+
 
 
 
