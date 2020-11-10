@@ -50,7 +50,8 @@ Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL alg
 
 Some following functions used: 
 ```diff
-- text in red
++ fgdhfjhfgjhj
++gnxmhgmxm
 ```
 
 
