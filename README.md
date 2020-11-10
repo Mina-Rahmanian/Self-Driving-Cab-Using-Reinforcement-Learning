@@ -78,7 +78,7 @@ Certain parameter restrictions:
 
 
 <p align="center">
-<img width="400" height="400" alt="figq dqn" src="https://user-images.githubusercontent.com/71558720/98610586-e7ea7e00-22bd-11eb-9e06-a6dff21d4591.PNG"><br />
+<img width="600" height="400" alt="figq dqn" src="https://user-images.githubusercontent.com/71558720/98610586-e7ea7e00-22bd-11eb-9e06-a6dff21d4591.PNG"><br />
 <p align="center">
    <em>Schematic representation of Q-learning and DQN methods</em>
 </p> <br />
