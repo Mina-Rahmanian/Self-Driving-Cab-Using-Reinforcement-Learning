@@ -125,8 +125,8 @@ At first look, it was not expected that the DQN agent did not perform the bestin
 
 ***
 <p align="center">
-<img width="450" height="370"  alt="comp" src="https://user-images.githubusercontent.com/71558720/98610590-e8831480-22bd-11eb-8130-ce73dad1989b.PNG">
-<img width="450" height="370"  alt="comp2" src="https://user-images.githubusercontent.com/71558720/98610591-e8831480-22bd-11eb-8649-ec8cdf850ed4.PNG">
+<img width="460" height="370"  alt="comp" src="https://user-images.githubusercontent.com/71558720/98610590-e8831480-22bd-11eb-8130-ce73dad1989b.PNG">
+<img width="460" height="370"  alt="comp2" src="https://user-images.githubusercontent.com/71558720/98610591-e8831480-22bd-11eb-8649-ec8cdf850ed4.PNG">
 
 <br /> 
 <p align="center">
