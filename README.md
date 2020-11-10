@@ -104,10 +104,10 @@ At first look, it was not expected that the DQN agent did not perform the bestin
 
 
 <p align="center">
-<img width="450" height="320"  alt="q-greedy" src="https://user-images.githubusercontent.com/71558720/98610571-def9ac80-22bd-11eb-8b7d-b637b85b47cd.PNG">
-<img width="450" height="320"  alt="q-explore" src="https://user-images.githubusercontent.com/71558720/98610568-def9ac80-22bd-11eb-923a-00d4f7a1fbe4.PNG">
-<img width="450" height="320"  alt="q-exploit" src="https://user-images.githubusercontent.com/71558720/98610567-de611600-22bd-11eb-8c2e-4a456f9fa2cd.PNG">
-<img width="450" height="320"  alt="DQL" src="https://user-images.githubusercontent.com/71558720/98610592-e8831480-22bd-11eb-81fc-ed5f6017e5d8.PNG">
+<img width="440" height="320"  alt="q-greedy" src="https://user-images.githubusercontent.com/71558720/98610571-def9ac80-22bd-11eb-8b7d-b637b85b47cd.PNG">
+<img width="440" height="320"  alt="q-explore" src="https://user-images.githubusercontent.com/71558720/98610568-def9ac80-22bd-11eb-923a-00d4f7a1fbe4.PNG">
+<img width="440" height="320"  alt="q-exploit" src="https://user-images.githubusercontent.com/71558720/98610567-de611600-22bd-11eb-8c2e-4a456f9fa2cd.PNG">
+<img width="440" height="320"  alt="DQL" src="https://user-images.githubusercontent.com/71558720/98610592-e8831480-22bd-11eb-81fc-ed5f6017e5d8.PNG">
 <br /> 
 <p align="center">
    <em> Figure 4: Performance Graphs:  Iterations vs (red color: Penalties – blue color:Time step/Epochs)</em>
@@ -134,5 +134,5 @@ At first look, it was not expected that the DQN agent did not perform the bestin
 </p> <br /><br />
 
 
-***
-Mina R
+
+## ** Mina R **
