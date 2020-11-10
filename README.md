@@ -39,6 +39,38 @@ The  self-driving cab environment provides a basic real-world transportation pro
  + Save passenger’s time by taking minimum time possible to drop off.
  + Take care of passenger’s safety and traffic rules. <br />
 
+The RL determines how good each step is in the process of learning and assigns weights toevery step. Specifically, we studied and implemented two RL algorithms for self-driving cab: Q-learning and Deep Q-networks (DQN). We explored each algorithm, tuned the hyperparameters,and compared their performances on the simulation. The performance of agents trained usingthese different algorithms and the rewards obtained are evaluated and compared for analysis. Theresult showed that DQN gives the best average reward. <br />
+
+
+## Experimental Setup
+<br />
+
+Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL algorithms. Thereare four possible locations for pick up and drop off, these are the ones marked by R,G,B and Y. For a particular iteration, the pickup spot will be highlighted by blue, while the drop off spot willbe highlighted by purple. Therefore, from the initial state as shown in the image, the taxi needs to pick the passenger up from B and drop them off at location Y. When the passenger is not inthe taxi, the colour of the taxi is denoted as yellow, if the passenger has been picked up by thetaxi, its colour changes to green. And finally, once the taxi drops the passenger off, it’s colourchanges back to yellow.  The straight lines (like |) denote obstructions through which the agentcannot pass as a wall. The possible actions the agent can take are: "North - South - West - East- Pickup - Drop-off".
+<br />
+
+Some following functions used: 
++ env.render: 
+<div class="text-green mb-2">
+  .renders one frame of environment (helpful in visualization)
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
