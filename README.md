@@ -49,7 +49,9 @@ Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL alg
 <br />
 
 Some following functions used: 
-+ ![#f03c15](evvvvv)
+```diff
+- text in red
+```
 
 
 
