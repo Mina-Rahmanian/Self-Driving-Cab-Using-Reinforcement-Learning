@@ -49,7 +49,7 @@ Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL alg
 <br />
 
 Some following functions used: 
-+ <div class="text-blue mb-2">.evvvb </div>
++ ![#f03c15](evvvvv)
 
 
 
