@@ -22,7 +22,7 @@ Reinforcement Learning (RL) is a semi supervised machine learning technique in w
 
 The  self-driving cab environment provides a basic real-world transportation problem envi-ronment with a single cab that acts as the agent, a passenger that needs to be picked up from his pick up location and dropped at his drop-off location.  The taxi may or may not be at the pick up location at the initial stage. Therefore, essentially the taxi needs to move towards the passenger, pick them up, travel towards the drop-off location and then drop them off. These setof actions constitute the total action space  available  to  the  agent. Additionally there are alsocertain obstructions in the environment which the agent needs to avoid. The environment frameof self-driving cab is shown in(Fig.   2). The goal is to explore and compare how different RL algorithms apply to the self-driving cab problem.<br />
 
-npm install --save hexo-image-caption
+!npm install --save hexo-image-caption
 
 <p align="center">
    <img width="150" height="200" hspace="20" alt="intial state" src="https://user-images.githubusercontent.com/71558720/98610588-e8831480-22bd-11eb-94d0-3aa8d0743978.PNG">
