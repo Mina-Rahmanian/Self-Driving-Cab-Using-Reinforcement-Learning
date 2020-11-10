@@ -5,7 +5,7 @@ Useful bits of knowledge before start:
 + First of all, please read The Reinforcment Learning book in second edition from this link ["Sutton & Barto" ](https://www.dbooks.org/reinforcement-learning-0262039249/).
 + There is a absolutely Free Resources for Reinforcement Learning [here](https://medium.com/datadriveninvestor/absolutely-free-resources-for-reinforcement-learning-d16a5230cb0f).
 + Also if you want to work with MATLAB you can read this link [RL with MATLAB](https://github.com/MinaR-90/Self-Driving-Cab-Using-Reinforcement-Learning/issues/1) too. 
-<br />
+<br /><br />
 
 ## Introduction
 <br />
@@ -39,7 +39,7 @@ The  self-driving cab environment provides a basic real-world transportation pro
  + Save passenger’s time by taking minimum time possible to drop off.
  + Take care of passenger’s safety and traffic rules. <br />
 
-The RL determines how good each step is in the process of learning and assigns weights toevery step. Specifically, we studied and implemented two RL algorithms for self-driving cab: Q-learning and Deep Q-networks (DQN). We explored each algorithm, tuned the hyperparameters,and compared their performances on the simulation. The performance of agents trained usingthese different algorithms and the rewards obtained are evaluated and compared for analysis. Theresult showed that DQN gives the best average reward. <br />
+The RL determines how good each step is in the process of learning and assigns weights toevery step. Specifically, we studied and implemented two RL algorithms for self-driving cab: Q-learning and Deep Q-networks (DQN). We explored each algorithm, tuned the hyperparameters,and compared their performances on the simulation. The performance of agents trained usingthese different algorithms and the rewards obtained are evaluated and compared for analysis. Theresult showed that DQN gives the best average reward. <br /><br />
 
 
 ## Experimental Setup
@@ -68,7 +68,7 @@ Certain parameter restrictions:
 - Gamma (γ) :discount factor.
 - Epsilon (ϵ) :balance factor between exploration and exploitation.
 ```
-<br />
+<br /><br />
 
 
 
@@ -86,17 +86,17 @@ Certain parameter restrictions:
 ### Q-learning:
 
 <p align="center">
-<img width="600" height="400" alt="Qlearning" src="https://user-images.githubusercontent.com/71558720/98615180-fe95d280-22c7-11eb-9c6c-d1630eb611ec.PNG"> <br />
+<img width="560" height="300" alt="Qlearning" src="https://user-images.githubusercontent.com/71558720/98615180-fe95d280-22c7-11eb-9c6c-d1630eb611ec.PNG"> <br />
 </p> <br />
 
 
 ### Deep Q-networks(DQN):
 
 <p align="center">
-<img width="600" height="400" alt="dqn" src="https://user-images.githubusercontent.com/71558720/98610593-e91bab00-22bd-11eb-812d-8f6017accdb6.PNG"> <br />
-</p> <br />
+<img width="550" height="370" alt="dqn" src="https://user-images.githubusercontent.com/71558720/98610593-e91bab00-22bd-11eb-812d-8f6017accdb6.PNG"> <br />
+</p> <br /><br />
 
-
+## Results and Analysis
 
 
 
