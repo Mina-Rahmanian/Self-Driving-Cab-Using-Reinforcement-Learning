@@ -61,9 +61,10 @@ Certain parameter restrictions:
 ```diff
 + Number of iterations for each algorithm :1000
 + Measurable quantities:
+   ```diff
    - Epochs :time step for the agent to reach the final state from the initial state.
    - Penalties :We have selected to count the number of times the agent takes an incorrectstep.
-
+   ```
 + Hyperparameters:
    - Alpha (α) :learning rate.
    - Gamma (γ) :discount factor.
