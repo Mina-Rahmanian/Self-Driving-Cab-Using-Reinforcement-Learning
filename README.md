@@ -119,10 +119,11 @@ At first look, it was not expected that the DQN agent did not perform the bestin
 | Q-learning Greedy   |  0.5   |    0.3 |  0.85   |  67.978 | 11.173  |
 | Q-learning Exploit  | 0.9  | 0.3  |   0.85 | 47.838  | 2.522  |
 | Q-learning Explore  | 0.1  |   0.3 |  0.85 |  276.79 |  78.878 |
-| Deep Q-learning     |   0.3  | 0.3  | 0.85  |  123.949 | 12.435  |        
-<em>Table 1: Results observed for algorithms in different values of hyperparameters</em> <br />
+| Deep Q-learning     |   0.3  | 0.3  | 0.85  |  123.949 | 12.435  |  
+<br />
+<em>Table 1: Results observed for algorithms in different values of hyperparameters</em> <br /><br />
 
-
+***
 <p align="center">
 <img width="450" height="370"  alt="comp" src="https://user-images.githubusercontent.com/71558720/98610590-e8831480-22bd-11eb-8130-ce73dad1989b.PNG">
 <img width="450" height="370"  alt="comp2" src="https://user-images.githubusercontent.com/71558720/98610591-e8831480-22bd-11eb-8649-ec8cdf850ed4.PNG">
