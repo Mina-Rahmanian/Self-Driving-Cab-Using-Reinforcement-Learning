@@ -83,9 +83,18 @@ Certain parameter restrictions:
    <em>Schematic representation of Q-learning and DQN methods</em>
 </p> <br />
 
+### Q-learning:
+
+<p align="center">
+<img width="600" height="400" alt="Qlearning" src="https://user-images.githubusercontent.com/71558720/98615180-fe95d280-22c7-11eb-9c6c-d1630eb611ec.PNG"> <br />
+</p> <br />
 
 
+### Deep Q-networks(DQN):
 
+<p align="center">
+<img width="600" height="400" alt="dqn" src="https://user-images.githubusercontent.com/71558720/98610593-e91bab00-22bd-11eb-812d-8f6017accdb6.PNG"> <br />
+</p> <br />
 
 
 
