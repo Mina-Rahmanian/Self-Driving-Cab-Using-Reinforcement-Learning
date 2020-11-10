@@ -50,9 +50,11 @@ Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL alg
 
 Some following functions used: 
 ```diff
-+ fgdhfjhfgjhj
-+gnxmhgmxm
++ env.render: renders one frame of environment (helpful in visualization)
++ env.step: advances the environment by one timestep
++ env.reset: resets the environment and returns a random initial state.
 ```
+<br />
 
 
 
