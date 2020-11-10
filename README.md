@@ -25,7 +25,7 @@ The  self-driving cab environment provides a basic real-world transportation pro
 
 <p align="center">
    <img width="150" height="200" hspace="20" alt="intial state" src="https://user-images.githubusercontent.com/71558720/98610588-e8831480-22bd-11eb-94d0-3aa8d0743978.PNG">
-      *(a): Initial State*
+      <em>(a) Initial State</em>
    <img width="150" height="200" hspace="20" alt="pichup" src="https://user-images.githubusercontent.com/71558720/98610577-e15c0680-22bd-11eb-9498-dab344439b39.PNG"> 
       <em>(b) Pickup State</em>
    <img width="150" height="200" hspace="20"  alt="drop off" src="https://user-images.githubusercontent.com/71558720/98610583-e751e780-22bd-11eb-8f2c-5f0edda5e339.PNG">
