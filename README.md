@@ -66,7 +66,7 @@ Certain parameter restrictions:
 + Hyperparameters:
 - Alpha (α) :learning rate.
 - Gamma (γ) :discount factor.
-- Epsilon   :balance factor between exploration and exploitation.
+- Epsilon (ϵ) :balance factor between exploration and exploitation.
 ```
 <br />
 
