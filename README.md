@@ -49,9 +49,8 @@ Here, we used OpenAI Gym, which is a toolkit for developing and comparing RL alg
 <br />
 
 Some following functions used: 
-+ env.render: 
-<div class="text-green mb-2">
-  .renders one frame of environment (helpful in visualization)
++ <div class="text-blue mb-2">
+  .evvvb
 </div>
 
 
