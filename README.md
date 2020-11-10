@@ -1,5 +1,5 @@
 # Self Driving Cab Using Reinforcement Learning methods (Q-learning and DQN)
-<br /><br />
+<br />
 
 Useful bits of knowledge before start:
 + First of all, please read The Reinforcment Learning book in second edition from this link ["Sutton & Barto" ](https://www.dbooks.org/reinforcement-learning-0262039249/).
@@ -40,6 +40,7 @@ The  self-driving cab environment provides a basic real-world transportation pro
  + Take care of passenger’s safety and traffic rules. <br />
 
 The RL determines how good each step is in the process of learning and assigns weights toevery step. Specifically, we studied and implemented two RL algorithms for self-driving cab: Q-learning and Deep Q-networks (DQN). We explored each algorithm, tuned the hyperparameters,and compared their performances on the simulation. The performance of agents trained usingthese different algorithms and the rewards obtained are evaluated and compared for analysis. Theresult showed that DQN gives the best average reward. <br /><br />
+
 
 
 ## Experimental Setup
@@ -98,9 +99,9 @@ Certain parameter restrictions:
 
 ## Results and Analysis
 
-
-
-
+The agent is trained in 1000 iterations or episodes using the each of two algorithms describedabove. A single iteration in the experiment consists of certain epochs, which is the number oftime-steps the agent took to reach the final state from the initial state, and a penalty count (thepenalty count is the number of times the agent incurred a reward =−10). The observations ofaveraging over 1000 iterations are recorded in a table, and individual algorithm performances areshown in Fig.4. The algorithms are tested with a collection of hyperparameter values as shownin Table 1.<br />
+First, the Q-Learning method is applied; learning parameters are varied to study how agentsbehave in different situations. The experimentation produced distinguishable  results  forα=0.3,γ= 0.85. The exploiting (ϵ= 0.9) results in learned values which helps the agent convergefaster and steadily as compared to exploring (ϵ= 0.1) and balanced/greedy (ϵ= 0.5) approaches.Among these cases, exploitation not only has had the lowest amount of average penalties, butit also had  the lowest amount of time step. As  shown in the left part of Fig.4, Q-learningperformance in better as we increase the exploitation. A sharp descend in the average epoch andpenalty value in the bottom left plot illustrate this issue.<br />
+The original algorithm [here](https://arxiv.org/pdf/1312.5602.pdf) was configured for Atari 2600 games and received successive frames(static images) of the game as input and used a CNN for the Q-network.  Here,  the algorithmis modified to take as input a one-hot vector representing one of 500 possible states of the taxienvironment.  Since the input is a 1D vector, linear feed-forward layers are used instead of convo-lutional layers.  The implementation contains 1 hidden layer of 150 neurons as well as a Dropoutlayer.  As we can see its performance in (Fig.  4).  It should be noted that, because of CNN, testingDQN for high iterations is a very time consuming process hence we have selected 1000 iterationfor all algorithm. 
 
 
 
