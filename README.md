@@ -111,10 +111,17 @@ At first look, it was not expected that the DQN agent did not perform the bestin
 <img width="450" height="370"  alt="DQL" src="https://user-images.githubusercontent.com/71558720/98610592-e8831480-22bd-11eb-81fc-ed5f6017e5d8.PNG">
 <br /> 
 <p align="center">
-   <em>Figure 4:Performance Graphs:  Iterations vs (red color: Penalties – blue color:Time step/Epochs)</em>
+   <em> Figure 4: Performance Graphs:  Iterations vs (red color: Penalties – blue color:Time step/Epochs)</em>
 </p> <br />
 
 
+| Algorithm           | ϵ   | α  | γ | Average Epochs  | Average Penalties  |
+| --------------------|:---:|:---:|:---:|:---:|:---:|
+| Q-learning Greedy   |     |     |     |   |   |
+| Q-learning Exploit  |   |   |    |   |   |
+| Q-learning Explore  |    |    |   |   |   |
+| Deep Q-learning     |     |   |   |   |   |        
+<br />
 
 
 
